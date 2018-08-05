@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="658329" started-at="2018-08-05T13:22:00Z" finished-at="2018-08-05T13:32:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="658329" started-at="2018-08-05T13:22:00Z" finished-at="2018-08-05T13:32:58Z">
+      <class name="Alation.SDET.NewTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:Alation.SDET.NewTest@be2bc2]" name="beforeSuite" is-config="true" duration-ms="8435" started-at="2018-08-05T18:51:51Z" finished-at="2018-08-05T18:52:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Alation.SDET.NewTest@be2bc2]" name="beforeClass" is-config="true" duration-ms="36974" started-at="2018-08-05T18:52:00Z" finished-at="2018-08-05T18:52:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Alation.SDET.NewTest@be2bc2]" name="beforeMethod" is-config="true" duration-ms="36646" started-at="2018-08-05T18:52:37Z" finished-at="2018-08-05T18:53:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Alation.SDET.NewTest@be2bc2]" name="f" duration-ms="584647" started-at="2018-08-05T18:53:13Z" finished-at="2018-08-05T19:02:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Alation.SDET.NewTest@be2bc2]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-08-05T19:02:58Z" finished-at="2018-08-05T19:02:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:Alation.SDET.NewTest@be2bc2]" name="afterSuite" is-config="true" duration-ms="907" started-at="2018-08-05T19:02:58Z" finished-at="2018-08-05T19:02:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Alation.SDET.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
